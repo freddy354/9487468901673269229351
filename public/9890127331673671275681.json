@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "318047311438",
+    "project_id": "awh---anime-wallpaper-hd",
+    "storage_bucket": "awh---anime-wallpaper-hd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318047311438:android:12bf80ea121b101916d51f",
+        "android_client_info": {
+          "package_name": "awh.anime.wallpaperhd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318047311438-f5mrtat2cbu7co826drknlcv9o4up3de.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjyUdbnXYQCEVIRv81D_CLbY-sFaqyPR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318047311438-f5mrtat2cbu7co826drknlcv9o4up3de.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
