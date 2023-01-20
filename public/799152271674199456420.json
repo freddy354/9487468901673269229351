@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119509272093",
+    "project_id": "sport-cars-fun-to-drive-30032",
+    "storage_bucket": "sport-cars-fun-to-drive-30032.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119509272093:android:7acd41c860f7232d9b28f4",
+        "android_client_info": {
+          "package_name": "sport.cars.funtodrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119509272093-jv795hlm5sopgnvmfhla6r761d7a3gqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADvFeAhL2ElX7H2NvfXWxbI4CHxPzto2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119509272093-jv795hlm5sopgnvmfhla6r761d7a3gqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
